@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Jin Leone M. Mejos 👋
 
-<!--
-**Axolith/Axolith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Grade 12 STEM student at Taguig Science High School, preparing for a BS in Computer Science.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a **DIY Sensor Light Project**.
+- 🌱 I’m currently learning **Calculus** and **Advanced Python**.
+- 📸 I also do photography (Mirrorless camera).
+git init
+git add .
+git commit -m "Initial commit of Grade 9 project"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/my-grade9-website.git
+git push -u origin main
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 📈 My GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
