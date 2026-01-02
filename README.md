@@ -5,12 +5,7 @@ I'm a Grade 12 STEM student at Taguig Science High School, preparing for a BS in
 - 🔭 I’m currently working on a **DIY Sensor Light Project**.
 - 🌱 I’m currently learning **Calculus** and **Advanced Python**.
 - 📸 I also do photography (Mirrorless camera).
-git init
-git add .
-git commit -m "Initial commit of Grade 9 project"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/my-grade9-website.git
-git push -u origin main
+
 
 ### 🛠 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
